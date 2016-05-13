@@ -1,0 +1,9 @@
+target
+.project
+.settings
+.classpath
+config/output
+
+.pmd
+.pmdruleset.xml
+.vagrant
